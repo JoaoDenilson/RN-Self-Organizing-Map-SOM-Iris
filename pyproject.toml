@@ -1,9 +1,9 @@
 [tool]
 [tool.poetry]
-authors = ["Your Name <you@example.com>"]
-name = "root"
+authors = ["João Denilson <denilsonsantos021@gmail.com>"]
+name = ""
 python = "^3.7"
-version = "0.0.0"
+version = "1.0.0"
 [tool.poetry.dependencies]
 matplotlib = "*"
 minisom = "*"
